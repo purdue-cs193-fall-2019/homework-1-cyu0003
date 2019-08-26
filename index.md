@@ -7,3 +7,4 @@
 - PSO
 - Meeting new people
 - Learning/studying with my friends
+- Figuring out how to actually code
